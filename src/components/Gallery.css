@@ -1,0 +1,11 @@
+li{
+    list-style: none;
+}
+
+.image-element-class{
+    width: calc(20% - 0.0833rem);
+}
+
+.my-gallery-class{
+    margin: 0.5rem 0.2rem .5rem .5rem;
+}
